@@ -1,0 +1,523 @@
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 11:44:27 AM","url":"/main"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 11:47:06 AM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:47:31 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:47:51 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:48:02 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:49:13 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:51:31 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:53:59 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:54:32 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:55:09 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:55:37 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:56:22 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 11:57:06 AM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 11:57:28 AM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 11:59:49 AM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/update/001"},"service":"user-service","timestamp":"8/23/2023, 12:00:00 PM","url":"/update/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/update/001"},"service":"user-service","timestamp":"8/23/2023, 12:00:54 PM","url":"/update/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:01:02 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:02:43 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 12:04:25 PM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated"},"service":"user-service","timestamp":"8/23/2023, 12:04:58 PM","url":"/updated"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:05:07 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:05:24 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:05:41 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:06:21 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/updated/001"},"service":"user-service","timestamp":"8/23/2023, 12:07:22 PM","url":"/updated/001"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"PUT","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 12:10:36 PM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"001","lastName":"Panda","year":"senior"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 12:10:39 PM","url":"/main"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"","lGrade":"","lastName":"Momo","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update/"},"service":"user-service","timestamp":"8/23/2023, 1:14:57 PM","url":"/update/"}
+{"body":{"firstName":"James","grades":[100,100,100],"id":"","lGrade":"","lastName":"Momo","year":"freshman"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:15:12 PM","url":"/main"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/001"},"service":"user-service","timestamp":"8/23/2023, 1:34:07 PM","url":"/001"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/001"},"service":"user-service","timestamp":"8/23/2023, 1:34:20 PM","url":"/001"}
+{"level":"error","message":"Cannot update stats. No student was found with the id of 001","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"GET","params":{"0":"/main/"},"service":"user-service","timestamp":"8/23/2023, 1:34:34 PM","url":"/main/"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"lastName":"Bam","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 1:44:29 PM","url":"/update"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"lastName":"Bam","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:44:52 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"lastName":"Bam","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:45:47 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:46:23 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 1:46:35 PM","url":"/update"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:46:46 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:49:32 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:50:09 PM","url":"/main"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 1:50:16 PM","url":"/update"}
+{"body":{"firstName":"Jam","grades":[100,100,100],"id":"005","lastName":"Bam","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:50:24 PM","url":"/main"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"id":"","lastName":"Bams","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 1:50:55 PM","url":"/update"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"id":"","lastName":"Bams","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:51:10 PM","url":"/main"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 1:51:36 PM","url":"/update"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:51:46 PM","url":"/main"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"PUT","params":{"0":"/001"},"service":"user-service","timestamp":"8/23/2023, 1:53:39 PM","url":"/001"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:53:49 PM","url":"/main"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 1:54:02 PM","url":"/1"}
+{"body":{"firstName":"Jams","grades":[100,100,100],"lastName":"Bams","year":"freshamn"},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:54:08 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 1:55:09 PM","url":"/1"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:55:18 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 1:56:34 PM","url":"/1"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"GET","params":{"0":"/"},"service":"user-service","timestamp":"8/23/2023, 1:56:45 PM","url":"/"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 1:56:52 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 1:57:44 PM","url":"/1"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 1:59:12 PM","url":"/1"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:01:05 PM","url":"/1"}
+{"body":{"grades":[100,100,100]},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:01:15 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":50},"level":"info","method":"PUT","params":{"0":"/updated/1"},"service":"user-service","timestamp":"8/23/2023, 2:05:07 PM","url":"/updated/1"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":50},"level":"info","method":"PUT","params":{"0":"/update/1"},"service":"user-service","timestamp":"8/23/2023, 2:05:15 PM","url":"/update/1"}
+{"body":{"grades":50},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:05:31 PM","url":"/1"}
+{"body":{"grades":50},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:05:38 PM","url":"/main"}
+{"body":{"grades":44},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:07:39 PM","url":"/1"}
+{"body":{"grades":44},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:07:49 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":44},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:08:29 PM","url":"/1"}
+{"body":{"grades":44},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:08:38 PM","url":"/main"}
+{"body":{"grades":44},"level":"info","method":"PUT","params":{"0":"/2"},"service":"user-service","timestamp":"8/23/2023, 2:09:05 PM","url":"/2"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"grades":44},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:09:19 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"DELETE","params":{"0":"/delete/1"},"service":"user-service","timestamp":"8/23/2023, 2:10:51 PM","url":"/delete/1"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:10:59 PM","url":"/main"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/3"},"service":"user-service","timestamp":"8/23/2023, 2:11:17 PM","url":"/3"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:11:23 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:13:44 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:17:23 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:19:00 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:20:06 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:20:56 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:22:50 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:23:58 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:24:43 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:25:01 PM","url":"/main"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:25:18 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:25:22 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:25:29 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:26:04 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:26:07 PM","url":"/main"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:26:11 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:26:34 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:26:39 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:26:58 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:28:37 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:29:36 PM","url":"/update"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:29:45 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"DELETE","params":{"0":"/delete/868"},"service":"user-service","timestamp":"8/23/2023, 2:35:07 PM","url":"/delete/868"}
+{"level":"error","message":{"body":{},"level":"error","method":"DELETE","params":{"id":"868"},"timestamp":"8/23/2023, 2:35:07 PM","url":"/delete/868"},"service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/45454"},"service":"user-service","timestamp":"8/23/2023, 2:36:37 PM","url":"/45454"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:38:46 PM","url":"/1"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 2:39:06 PM","url":"/1"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 2:39:27 PM","url":"/main"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:54:35 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:55:08 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:56:14 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:56:22 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:56:52 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:57:25 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:57:34 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:57:38 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:57:46 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 2:59:59 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:02:08 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:02:08 PM","url":"/update"},"service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:02:17 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:02:35 PM","url":"/update"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:02:41 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:02:46 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:03:14 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:06:02 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:06:02 PM","url":"/update"},"service":"user-service"}
+{"body":{},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:06:07 PM","url":"/update"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:06:29 PM","url":"/update"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:06:37 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:06:37 PM","url":"/update"},"service":"user-service"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:12:00 PM","url":"/main"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 3:12:16 PM","url":"/1"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:12:32 PM","url":"/main"}
+{"body":{},"level":"info","method":"DELETE","params":{"0":"/delete/1"},"service":"user-service","timestamp":"8/23/2023, 3:12:49 PM","url":"/delete/1"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:12:53 PM","url":"/main"}
+{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:13:00 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":100,"firstName":"john","grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:13:00 PM","url":"/update"},"service":"user-service"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:13:06 PM","url":"/main"}
+{"body":{"average":100,"firstName":100,"grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:14:41 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":100,"firstName":100,"grades":[100,100,100],"lastName":"dunk","letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:14:41 PM","url":"/update"},"service":"user-service"}
+{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":"A","year":"freshman"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:16:09 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":"A","year":"freshman"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:16:09 PM","url":"/update"},"service":"user-service"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:16:15 PM","url":"/main"}
+{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":"A","year":"detonate bomb"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:16:49 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":"A","year":"detonate bomb"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:16:49 PM","url":"/update"},"service":"user-service"}
+{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":1e+40,"year":"detonate bomb"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:17:19 PM","url":"/update"}
+{"level":"error","message":{"body":{"average":"low","firstName":100,"grades":[100,100,100],"lastName":100000,"letterGrade":1e+40,"year":"detonate bomb"},"level":"error","method":"POST","params":{},"timestamp":"8/23/2023, 3:17:19 PM","url":"/update"},"service":"user-service"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:17:27 PM","url":"/main"}
+{"body":{"script":"aud ./~home -> root to origin -> newSerial: FF8HC4FK90","serial":"C02FP5BSQ6LR"},"level":"info","method":"POST","params":{"0":"/update"},"service":"user-service","timestamp":"8/23/2023, 3:21:58 PM","url":"/update"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 3:23:25 PM","url":"/1"}
+{"body":{},"level":"error","message":"Cannot update stats. No student was found with the id ","method":"PUT","params":{"id":"1"},"service":"user-service","timestamp":"8/23/2023, 3:23:25 PM","url":"/1"}
+{"level":"info","message":"This is an informational message.","service":"user-service"}
+{"level":"warn","message":"This is a warning message.","service":"user-service"}
+{"level":"error","message":"This is an error message.","service":"user-service"}
+{"body":{},"level":"info","method":"PUT","params":{"0":"/1"},"service":"user-service","timestamp":"8/23/2023, 3:23:51 PM","url":"/1"}
+{"body":{},"level":"info","method":"GET","params":{"0":"/main"},"service":"user-service","timestamp":"8/23/2023, 3:24:23 PM","url":"/main"}
